@@ -1,4 +1,5 @@
 # steal-digispark
+WARNING! USE ONLE _upd or _update files
 Stealer on DigisPark
 1. Setup Arduino Download v1.8.13: https://downloads.arduino.cc/arduino-1.8.19-windows.exe
 2. Download and Install Drivers: https://github.com/digistump/DigistumpArduino
