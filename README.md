@@ -21,7 +21,7 @@ Press "Install"
 5. Press Download in Arduino and connect the chip.
 
 Preparing the flash drive on which the user`s data will be uploaded:
-Rename the usb drive: Grestal-USB
+Rename the usb drive: ULN123
 All done!
 
 Connect Grestal-USB and Digispark.
